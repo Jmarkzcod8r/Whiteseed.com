@@ -1,0 +1,21 @@
+.App{
+    text-align: center;
+    background-color: aqua;
+
+    .Background_pic{
+        display:flex;
+        width:100%;
+        background-color: beige;
+        justify-content: center;
+        // z-index: -10;
+
+        .bg_pic{
+           
+            width:120%;
+           
+           
+            
+        }
+    }
+}
+
