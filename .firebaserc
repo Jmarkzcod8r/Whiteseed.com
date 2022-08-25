@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "whiteseed-b8315",
+    "whiteseed trial": "whiteseed-b8315",
+    "Whiteseed Firebase": "whiteseed-b8315"
+  },
+  "targets": {},
+  "etags": {}
+}
